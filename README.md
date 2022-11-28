@@ -1,4 +1,4 @@
-[![codesche's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=welcome%20profile&fontSize=90" />
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -10,8 +10,11 @@
   <img src="https://img.shields.io/badge/HTML5-FF0000?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-0066FF?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-FFFF33?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  
+  <br>
   <img src="https://img.shields.io/badge/.NET-9900CC?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/.Csharp-9900CC?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Csharp-9900CC?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  
   <br>
   <img src="https://img.shields.io/badge/MySQL-3399FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-3399FF?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
@@ -30,8 +33,8 @@
 
 # Introduce
 🌱 used as the main : Java, Spring, MySQL, MariaDB, Sqlite etc...
-📫 Email: codesche@gmail.com
-⚡ foreign Language ability: Chinese language
+<br>📫 Email: codesche@gmail.com
+<br>⚡ foreign Language ability: Chinese language
 
-
+[![codesche's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/anuraghazra/github-readme-stats)
 
