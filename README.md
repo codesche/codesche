@@ -35,8 +35,8 @@
 
 <h3 align="center">📚 My Github Stats 📚</h3>
 <div align="center">
-  
-  [![codesche's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  ![codesche's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=radical)
   
 </div>
 
