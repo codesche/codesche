@@ -1,5 +1,4 @@
 ![바다](https://user-images.githubusercontent.com/110509654/204178990-4a748530-535e-4469-97b9-3fb8ad1411a0.jpg)
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-3366FF?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -36,5 +35,6 @@
 <br>📫 Email: codesche@gmail.com
 <br>⚡ foreign Language ability: Chinese language
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 [![codesche's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/anuraghazra/github-readme-stats)
 
