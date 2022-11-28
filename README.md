@@ -6,7 +6,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=red"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/CSS-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/.NET-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/.Csharp-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbspC
+  <img src="https://img.shields.io/badge/.Csharp-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
