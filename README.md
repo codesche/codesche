@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=welcome%20profile&fontSize=90" />
+![바다](https://user-images.githubusercontent.com/110509654/204178990-4a748530-535e-4469-97b9-3fb8ad1411a0.jpg)
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
