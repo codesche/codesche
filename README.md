@@ -35,12 +35,11 @@
 
 
 <div align="center">
-  <h3 align="center">✏️ Introduce ✏️</h3>
-  🌱 main : Java, Spring, MySQL, MariaDB, Sqlite etc...
+  <h3 align="center">✏️ Me ✏️</h3>
+  "coding always stay with me!"
   <br>✉️ Email: codesche@gmail.com
   <br>⚡ foreign Language ability: Chinese
 </div>
-
 
 
 <h3 align="center">📚 My Github Stats 📚</h3>
