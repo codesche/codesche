@@ -11,11 +11,7 @@
   <img src="https://img.shields.io/badge/HTML5-FF0000?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-0066FF?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-FFFF33?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  
-  <br>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Csharp-9900CC?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
-  
+
   <br>
   <img src="https://img.shields.io/badge/MySQL-3399FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-3399FF?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
