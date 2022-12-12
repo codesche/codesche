@@ -32,14 +32,14 @@
 <h3 align="center">📚 My Github Stats 📚</h3>
 <div align="center">
  
-  ![codesche's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/codesche/github-readme-stats)
   
 </div>
 
 <h3 align="center">💻 Most Used Langs 💻</h3>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesche)](https://github.com/codesche/github-readme-stats)
   
 </div>
 
