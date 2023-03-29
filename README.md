@@ -1,6 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=codesche%20github&fontSize=60)
 
+<h3 align="center">☀️ Hits ☀️</h3>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-3366FF?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -25,22 +30,28 @@
    <a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=flat-square&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>&nbsp
 </p>
 
-<h3 align="center">☀️ Hits ☀️</h3>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
-
-<h3 align="center">📚 My Github Stats 📚</h3>
-<div align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&theme=dark&show_icons=true)
-  
-</div>
-
 <h3 align="center">💻 Most Used Langs 💻</h3>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+
+<h3 align="center">🏅 BaekJoon Badge 🏅</h3>
+
+<div align="center">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hms7709)](https://solved.ac/hms7709)
+
+</div>
+  
+<h3 align="center">📚 My Github Stats 📚</h3>
+<div align="center">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&theme=radical&show_icons=true)
+  
+</div>
+
+
 
