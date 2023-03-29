@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/Oracle-FF3300?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Channel & Portfolio 🌈</h3>
 <p align="center">
-  <a href="https://codesche.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codefact.tistory.com//@codesche"/></a>&nbsp
-  <a href="mailto:codesche0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
+  <a href="https://codesche.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codefact.tistory.com//@codesche"/></a>
+   <a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=flat-square&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>&nbsp
 </p>
 
 <h3 align="center">☀️ Hits ☀️</h3>
