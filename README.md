@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hms7709)](https://solved.ac/hms7709)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709)
 
 </div>
   
