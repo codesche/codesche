@@ -36,14 +36,6 @@
   
 </div>
 
-
-<h3 align="center">🏅 BaekJoon Badge 🏅</h3>
-
-<div align="center">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709)
-
-</div>
   
 <h3 align="center">📚 My Github Stats 📚</h3>
 <div align="center">
