@@ -16,26 +16,54 @@
 
 <h3 align="center">📚 Skill 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-3366FF?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp 
+  <div align="center">
+      <h4>Backend</h4>
+      <img src="https://img.shields.io/badge/☕ Java-0854C1?style=for-the-badge&logo=Java&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/SpringBoot-339933?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/></a>
+  </div>
   
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-FF0000?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-0066FF?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-FFFF33?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <div align="center">
+      <h4>Frontend</h4>
+      <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/CSS-0066FF?style=for-the-badge&logo=css3&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Javascript-ECD53F?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
+  </div>
 
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-3399FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MariaDB-3399FF?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-FF3300?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+   <div align="center">
+      <h4>Database</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
+  </div>
+
+  <div align="center">
+      <h4>CI/CD</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>
+  </div>
+
+  <div align="center">
+      <h4>Collaboration Tool</h4>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/></a>
+  </div>
 </p>
 
 ---
 <h3 align="center">🌈 Channel & Portfolio 🌈</h3>
 <p align="center">
-  <a href="https://www.notion.so/Jacob-Blog-e183849977c04f7193a73e273bd12fe8/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codefact.tistory.com//@codesche"/></a>&nbsp<a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=flat-square&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
+  <a href="https://www.notion.so/Jacob-Blog-e183849977c04f7193a73e273bd12fe8/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codefact.tistory.com//@codesche"/></a>&nbsp<a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=for-the-badge&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
 </p>
 
 --- 
@@ -56,5 +84,9 @@
   
 </div>
 
+<h3 align="center">🏅 BaekJoon Badge 🏅</h3>
+<div align="center">
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709)
 
-
+</div>
