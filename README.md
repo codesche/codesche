@@ -76,17 +76,5 @@
 </div>
 
 ---
-  
-<h3 align="center">📚 My Github Stats 📚</h3>
-<div align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&theme=radical&show_icons=true)
-  
-</div>
 
-<h3 align="center">🏅 BaekJoon Badge 🏅</h3>
-<div align="center">
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709)
 
-</div>
