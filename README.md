@@ -18,7 +18,7 @@
 
 <table align="center">
   <tr>
-    <td rowspan="4"><h5>🎨 Frontend</h5></td>
+    <td rowspan="4"><h4>🎨 Frontend</h4></td>
   </tr>
   <tr>
     <td>Language</td>
@@ -42,7 +42,7 @@
   </tr>
   
   <tr>
-    <td rowspan="9"><h5>🌱 Backend</h5></td>
+    <td rowspan="9"><h4>🌱 Backend</h4></td>
   </tr>
   <tr>
     <td>Language</td>
@@ -99,12 +99,12 @@
     </td>
   </tr>
   <tr>
-    <td><h5>🎒 Etc</h5></td>
+    <td><h4>🎒 Etc</h4></td>
     <td>CI/CD</td>
     <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td rowspan="4"><h5>👬 Collaboration</h5></td>
+    <td rowspan="4"><h4>👬 Collaboration</h4></td>
   </tr>
   
   <tr>
@@ -134,7 +134,7 @@
   </tr>
   
   <tr>
-    <td rowspan="3"><h5>🛠️ AWS Public Cloud Service</h5></td>
+    <td rowspan="3"><h4>🛠️ AWS Public Cloud Service</h4></td>
     <td colspan="3">
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>
