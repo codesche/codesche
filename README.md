@@ -2,18 +2,14 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=codesche%20github&fontSize=60) -->
 
-<!-- <h3 align="center"> -->
-<!--  Good Day EveryOne! I'm codesche. 👋-->
-<!-- </h3>  -->
 
-<br/>
 <h3 align="center">☀️ Hits ☀️</h3>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
----
 
+</br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <table align="center">
@@ -143,14 +139,15 @@
   </tr>
 </table>
 
----
+
+</br>
 <h3 align="center">🌈 Channel & Portfolio 🌈</h3>
 <p align="center">
   <a href="https://www.notion.so/Jacob-Blog-e183849977c04f7193a73e273bd12fe8/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codefact.tistory.com//@codesche"/></a>&nbsp<a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=for-the-badge&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
 </p>
 
---- 
 
+</br>
 <h3 align="center">💻 Github Status 💻</h3>
 <div align="center">
 
