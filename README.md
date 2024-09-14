@@ -7,7 +7,12 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+</br>
 
+<h3 align="center">🌈 Channel & Portfolio 🌈</h3>
+<p align="center">
+  <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>&nbsp<a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=for-the-badge&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
+</p>
 
 </br>
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -138,32 +143,23 @@
   </tr>
 </table>
 
-
 </br>
-<h3 align="center">🌈 Channel & Portfolio 🌈</h3>
-<p align="center">
-  <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>&nbsp<a href="https://github.com/Lazy-Board"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=for-the-badge&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
-</p>
 
-</br>
 <h3 align="center">💻 Github Status 💻</h3>
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=100% />
+    </td>
+    <td>
+      <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=radical) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=94% />
-  </a>    
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=94% />
+    <img src="https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=100% />
   </a>
-</div>
-
-<div align="center">
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=radical) -->
-
-</div>
-
+    </td>
+  </tr>
+</table>
 
 
