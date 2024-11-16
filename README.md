@@ -6,7 +6,7 @@
 
 <h3 align="center">🌈 Channel & Portfolio 🌈</h3>
 <p align="center">
-  <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>&nbsp<a href="(https://github.com/DoDreamTeam/Backend/wiki)"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=for-the-badge&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
+  <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>&nbsp<a href="[https://github.com/DoDreamTeam/Backend/wiki](https://github.com/DoDreamTeam/Backend/wiki)"><img src="https://img.shields.io/badge/%20Portfolio-232f46?style=for-the-badge&logo=Polymer Project&logoColor=white&link=https:[//github.com]https://github.com/Lazy-Board//@codesche"/></a>&nbsp<a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
 </p>
 
 </br>
