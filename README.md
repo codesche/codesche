@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20codesche's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=codesche%20github&fontSize=60) -->
 
 </br>
 
@@ -80,7 +79,7 @@
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white"/></a>
-<!--       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a> -->
+
     </td>
   </tr>
   <tr>
