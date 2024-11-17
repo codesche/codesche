@@ -24,12 +24,6 @@
     </td>
   </tr>
   <tr>
-    <td>Library</td>
-    <td>
-      <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
-  </tr>
-  <tr>
     <td>Template Engine</td>
     <td>
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
