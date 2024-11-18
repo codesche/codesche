@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20codesche's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-
 </br>
 
 <h3 align="center">𝌕 Tech Blog & Contact 𝌕</h3>
@@ -138,6 +137,66 @@
 
 </br>
 
+<h3 align="center">💠 팀 프로젝트 💠</h3>
+<table align="center">
+  <tr>
+    <th>제목</th>
+    <th>팀 구성</th>
+    <th>한 줄 요약</th>
+    <th>핵심 기능 OR 역할</th>
+    <th>Github</th>
+    <th>완료일시(기간)</th>
+  </tr>
+  <tr>
+    <td>DoDream</td>
+    <td>Frontend/Backend 3명</td>
+    <td>자기 계발에 관심 있는 개발자를 위한 문제 공유 서비스</td>
+    <td>프로젝트 관리, 스터디 서비스 개발, 레디스 캐싱, 페이지네이션 구현, 쿼리 성능 최적화, CI/CD 구축</td>
+    <td><a href="https://github.com/DoDreamTeam/Backend/wiki">링크</a></td>
+    <td>2024.9.30 ~ 진행중</td>
+  </tr>
+  <tr>
+    <td>Lazier</td>
+    <td>Frontend 2명, Backend 4명</td>
+    <td>맞춤형 정보조회 서비스</td>
+    <td>프로젝트 관리, 주식 + 환율 서비스 개발, 크롤링, CI/CD 구축</td>
+    <td><a href="https://github.com/DoDreamTeam/Backend/wiki">링크</a></td>
+    <td>2023.1.27 ~ 2023.3.8 (약 1개월)</td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">🏗️ 현업 프로젝트 🏗</h3>
+<table align="center">
+  <tr>
+    <th>제목</th>
+    <th>회사명</th>
+    <th>참여인원</th>
+    <th>한 줄 요약</th>
+    <th>역할</th>
+    <th>완료일시(기간)</th>
+  </tr>
+  <tr>
+    <td>Yanolja Cloud Migration</td>
+    <td>(주)Dmove</td>
+    <td>Atlassian Solution Engineer 3명</td>
+    <td>Jira, Confluence의 데이터 이관 작업 진행</td>
+    <td>Jira/Conflunece 데이터 + Add-on 데이터 마이그레이션 진행</td>
+    <td>2023.11.01 ~ 2024.03.30 (약 4개월)</td>
+  </tr>
+  <tr>
+    <td>이기은진단검사의학과 코로나 검사 시스템 구축</td>
+    <td>(주)ACK</td>
+    <td>LIS 인터페이스 개발자 1명(Backend/Fronend)</td>
+    <td>전북 지역에 위치한 검사센터의 코로나 검사 자동화 시스템 구축</td>
+    <td>코로나 검사 장비 결과 서버 연동 구축 작업 진행(일반검사 + 취합검사) + 결과지 출력 기능 구현</td>
+    <td>2022.04 ~ 2022.06 (약 2개월)</td>
+  </tr>
+</table>
+
+<br/>
+
 <h3 align="center">💻 Github Status 💻</h3>
 
 <table align="center">
@@ -154,6 +213,8 @@
     </td>
   </tr>
 </table>
+
+</br>
 
 
 
