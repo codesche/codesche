@@ -136,7 +136,7 @@
 </table>
 
 </br>
-
+<!--
 <h3 align="center">💠 팀 프로젝트 💠</h3>
 <table align="center">
   <tr>
@@ -194,7 +194,6 @@
     <td>2022.04 ~ 2022.06 (약 2개월)</td>
   </tr>
 
-  <!--의정부을지병원-->
   <tr>
     <td>의정부을지병원</td>
     <td>(주)ACK</td>
@@ -204,7 +203,7 @@
     <td>2020.12 ~ 2021.04 (약 5개월)</td>
   </tr>
 </table>
-
+-->
 <br/>
 
 <h3 align="center">💻 Github Status 💻</h3>
