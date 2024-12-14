@@ -206,7 +206,6 @@
 -->
 <br/>
 
-<!-- Github Status -->
 <h3 align="center">💻 Github Status 💻</h3>
 
 <table align="center">
