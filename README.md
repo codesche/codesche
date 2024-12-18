@@ -9,6 +9,7 @@
 </p>
 
 </br>
+<!-- Tech Stack -->
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <table align="center">
