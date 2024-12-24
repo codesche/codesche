@@ -16,6 +16,7 @@
     <td rowspan="4"><h4>🎨 Frontend</h4></td>
   </tr>
   <tr>
+    <!-- Language -->
     <td>Language</td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
