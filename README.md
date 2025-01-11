@@ -1,16 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20codesche's%20Github%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20codesche's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+## 👋 Introdution
+- 문제 해결과 꾸준한 성장의 가치를 중시하는 백엔드 개발자 codesche입니다.
+- 좋아하는 일과 적성 사이에서 고민하다가 적성에 맞는 개발자의 길을 걸어가기로 결심했습니다.
+- 글쓰기를 좋아하는 INTJ 개발자입니다. 
 
-</br>
-
-<h3 align="center">𝌕 Tech Blog & Contact 𝌕</h3>
-<p align="center">
-  <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>&nbsp&nbsp<a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
-</p>
-
-</br>
-<h3 align="center">📚 Tech Stack 📚</h3>
-
+## ⚒️ Tech Stack
 <table align="center">
   <tr>
     <td rowspan="4"><h4>🎨 Frontend</h4></td>
@@ -36,7 +31,7 @@
     <td>Language</td>
     <td>
       <img src="https://img.shields.io/badge/☕ Java-0854C1?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<!--       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/></a> -->
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -135,96 +130,24 @@
   </tr>
 </table>
 
-</br>
-<!--
-<h3 align="center">💠 팀 프로젝트 💠</h3>
-<table align="center">
-  <tr>
-    <th>제목</th>
-    <th>팀 구성</th>
-    <th>한 줄 요약</th>
-    <th>핵심 기능 OR 역할</th>
-    <th>Github</th>
-    <th>완료일시(기간)</th>
-  </tr>
-  <tr>
-    <td>DoDream</td>
-    <td>Frontend/Backend 3명</td>
-    <td>자기 계발에 관심 있는 개발자를 위한 문제 공유 서비스</td>
-    <td>프로젝트 관리, 스터디 서비스 개발, 레디스 캐싱, 페이지네이션 구현, 쿼리 성능 최적화, CI/CD 구축</td>
-    <td><a href="https://github.com/DoDreamTeam/Backend/wiki">링크</a></td>
-    <td>2024.9.30 ~ 진행중</td>
-  </tr>
-  <tr>
-    <td>Lazier</td>
-    <td>Frontend 2명, Backend 4명</td>
-    <td>맞춤형 정보조회 서비스</td>
-    <td>프로젝트 관리, 주식 + 환율 서비스 개발, 크롤링, CI/CD 구축</td>
-    <td><a href="https://github.com/DoDreamTeam/Backend/wiki">링크</a></td>
-    <td>2023.1.27 ~ 2023.3.8 (약 1개월)</td>
-  </tr>
-</table>
 
-<br/>
+## 🧑🏻‍💻 Tech Blog & Contact
+<p>
+  <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>&nbsp&nbsp<a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>
+</p>
 
-<h3 align="center">🏗️ 현업 프로젝트 🏗</h3>
-<table align="center">
+## 📊 Github Stats
+<table>
   <tr>
-    <th>제목</th>
-    <th>회사명</th>
-    <th>참여인원</th>
-    <th>한 줄 요약</th>
-    <th>역할</th>
-    <th>완료일시(기간)</th>
-  </tr>
-  <tr>
-    <td>Yanolja Cloud Migration</td>
-    <td>(주)Dmove</td>
-    <td>Atlassian Solution Engineer 3명</td>
-    <td>Jira, Confluence의 데이터 이관 작업 진행</td>
-    <td>Jira/Conflunece 데이터 + Add-on 데이터 마이그레이션 진행</td>
-    <td>2023.11.01 ~ 2024.03.30 (약 4개월)</td>
-  </tr>
-  <tr>
-    <td>이기은진단검사의학과 코로나 검사 시스템 구축</td>
-    <td>(주)ACK</td>
-    <td>LIS 인터페이스 개발자 1명</td>
-    <td>전북 지역에 위치한 검사센터의 코로나 검사 자동화 시스템 구축</td>
-    <td>코로나 검사 장비 결과 서버 연동 구축 작업 진행(일반검사 + 취합검사) + 결과지 출력 기능 구현</td>
-    <td>2022.04 ~ 2022.06 (약 2개월)</td>
-  </tr>
-
-  <tr>
-    <td>의정부을지병원</td>
-    <td>(주)ACK</td>
-    <td>LIS 인터페이스 개발자 3명</td>
-    <td>의정부 을지병원 차세대 전산 시스템 구축</td>
-    <td>혈액, 응급, 미생물, 분자유전 파트 진단검사 연동 인터페이스 구축 + SmartQC 연동</td>
-    <td>2020.12 ~ 2021.04 (약 5개월)</td>
-  </tr>
-</table>
--->
-<br/>
-
-<!-- Github Status -->
-<h3 align="center">💻 Github Status 💻</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=100% />
-    </td>
     <td>
       <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=radical) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=100% />
   </a>
     </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=90% />
+    </td>
   </tr>
 </table>
-
-</br>
-
-
-
