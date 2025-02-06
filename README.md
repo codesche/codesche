@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20codesche's%20Github%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ## 👋 Introdution
-- 문제 해결과 꾸준한 성장의 가치를 중시하는 백엔드 개발자 codesche입니다.
-- 적성과 좋아하는 일에 대한 고민 끝에 적성에 잘 맞는 개발자의 길을 선택하였습니다.
-- 노인이 되어서도 개발자로 일하고 싶은 사람입니다.
+- 문제 해결과 꾸준한 성장의 가치를 중시하는 개발자 codesche입니다.
+- 늙어서도 개발자로 일하고 싶은 사람입니다.
 - 글쓰기를 좋아하는 INTJ 개발자입니다.
 
 
