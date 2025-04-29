@@ -3,8 +3,6 @@
 ## 👋 Introdution
 - 문제 해결과 꾸준한 성장의 가치를 중시하는 개발자 codesche입니다.
 - 늙어서도 개발자로 일하고 싶은 사람입니다.
-- 글쓰기를 좋아하는 INTJ 개발자입니다.
-
 
 ## ⚒️ Tech Stack
 <table align="center">
