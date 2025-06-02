@@ -118,14 +118,14 @@
   </tr>
   
   <tr>
-    <td rowspan="3"><h4>🛠️ AWS Public Cloud Service</h4></td>
+<!--     <td rowspan="3"><h4>🛠️ AWS Public Cloud Service</h4></td>
     <td colspan="3">
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Amazon ElastiCache-C925D1?style=for-the-badge&logo=Amazon ElastiCache&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=for-the-badge&logo=Amazon Route 53&logoColor=white"/></a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
