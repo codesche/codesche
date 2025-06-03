@@ -109,12 +109,12 @@
     </td>
   </tr>
   <tr>
-    <td>IDE</td>
+<!--     <td>IDE</td>
     <td>
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white"/></a>
-    </td>
+    </td> -->
   </tr>
   
   <tr>
