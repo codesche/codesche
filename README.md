@@ -136,18 +136,3 @@
   <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>
 </p>
 
-## 📊 Github Stats
-<table>
-  <tr>
-    <td>
-      <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=radical) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=codesche&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=100% />
-  </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesche&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=90% />
-    </td>
-  </tr>
-</table>
