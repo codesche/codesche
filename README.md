@@ -98,7 +98,7 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
     </td>
   </tr>
-<!--   <tr>
+<tr>
     <td>Communication</td>
     <td>
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
@@ -107,7 +107,7 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/></a>
     </td>
-  </tr> -->
+  </tr>
   <tr>
 <!--     <td>IDE</td>
     <td>
