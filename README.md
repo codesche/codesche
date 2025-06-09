@@ -30,7 +30,7 @@
     <td>Language</td>
     <td>
       <img src="https://img.shields.io/badge/☕ Java-0854C1?style=for-the-badge&logo=Java&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/></a>
+     <!-- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/></a>-->
     </td>
   </tr>
   <tr>
