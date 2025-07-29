@@ -140,5 +140,5 @@
 
 <br/>
 
-### 🌈 Github Commit Record
+## 🌈 Github Commit Record
 ![Github Commit Record](./profile-3d-contrib/profile-night-rainbow.svg)
