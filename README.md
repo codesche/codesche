@@ -138,6 +138,7 @@
   <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>
 </p>
 
+<br/>
 
 ### 🌈 Github Commit Record
 ![Github Commit Record](./profile-3d-contrib/profile-night-rainbow.svg)
