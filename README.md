@@ -121,9 +121,23 @@
 
 <br/>
 
+## ⚡️ GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/codesche/github-readme-stats)
+
+<br/>
+
+## 🚴🏻‍♂️ BaekJoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709/)
+<img src="http://mazandi.herokuapp.com/api?handle=hms7709&theme=warm"/>
+
+<br/>
+
 ## 🧑🏻‍💻 Tech Blog & Contact
 <p>
   <a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/codesche@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>&nbsp&nbsp
   <a href="https://codesche.oopy.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https:[//tistory.com]https://codesche.oopy.io//@codesche"/></a>
 </p>
 
+
+
+<img src="https://skyline.github.com/codesche/2024.gif" width="500" />
