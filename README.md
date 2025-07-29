@@ -9,7 +9,7 @@
 
 <details>
 <summary><strong> 🔽 프로필 </strong></summary>
-  
+
 - **Name**: Minsung Ha (하민성)  
 - **Nickname**: codesche  
 - **Email**: codesche@gmail.com
@@ -17,11 +17,9 @@
 </details>
 
 <details>
-<summary><strong> 🔽 발표 </strong></summary>
+<summary><strong> 🔽 발표 </strong></summary> 
 내가 알고 있는 지식과 정보를 쉽게 전달하기 위해 노력합니다.
-
-<br/>
-
+  
 - [“Hello Atlassian, 기다려온 미래” 컨퍼런스 발표](https://dmove.tistory.com/entry/atlassian-event-240327)  
 - [화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
 
@@ -32,12 +30,17 @@
 
 - [Java 알고리즘 스터디](https://github.com/codesche/2025-algo)
 - [Python 스터디](https://github.com/codesche/python-study)
+- [Kotlin 스터디](https://github.com/codesche/kotlin-study)
 - [AWS에서 Jenkins 구축](https://chisel-girdle-b92.notion.site/EC2-Jenkins-237d2cee333480fda8daf143b5eb1cd6)
 - [AWS에서 ELK + Prometheus + Grafan 구축](https://codesche.oopy.io/238de3f7-e3a8-803c-b23a-fdefe1262771)
 - [클린 코드](https://github.com/codesche/CleanCode-study)
+- [실습 코드 정리](https://github.com/codesche/exercise-code?tab=readme-ov-file)
 - [Spring Study](https://github.com/codesche/Spring-Summary)
+- [SpringBoot 활용한 나만의 블로그 만들기](https://github.com/codesche/springboot-miniblog)
 - [Side Project](https://github.com/codesche/BoardProject)
 - [프로그래밍 교육](https://github.com/codesche/2025-likelion-exercise)
+- [기본적인 게시판 구현](https://github.com/codesche/rest-api-project)
+
 
 </details>
 
@@ -77,7 +80,7 @@
 <br/>
 
 ## 🛠 Projects
-- **문제 공유 서비스 for 개발자 자기계발** (2024.10 ~ 2024.11) [링크](https://github.com/DoDreamTeam/Backend/wiki)
+- **개발자의 자기계발을 위한 문제 공유 서비스** (2024.10 ~ 2024.11) [링크](https://github.com/DoDreamTeam/Backend/wiki)
 - **맞춤형 정보 조회 서비스** (2023.01 ~ 2023.03) [링크](https://github.com/Lazy-Board)
 
 <br/>
