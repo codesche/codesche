@@ -53,7 +53,7 @@
 
 | 기간 | 회사 | 프로젝트 | 주요 내용 |
 |:-------------:|:----------------:|-----------|-------------|
-| 2023.11 ~ 2024.03 |`Dmove`| 야놀자 아틀라시안 클라우드 마이그레이션 | Jira, Confluence의 Data Center 데이터를 클라우드로 이관 |
+| 2023.11 ~ 2024.03 |`Dmove`| 야놀자 아틀라시안 클라우드 마이그레이션 | Jira, Confluence 데이터를 클라우드로 이관 |
 | 2022.04 ~ 2022.06 |`ACK` | 이기은진단검사의학과 코로나 검사 자동화 시스템 구축 | 코로나 검사 인터페이스 개발 |
 | 2022.05 ~ 2022.05 |`ACK` | 인천국제공항 제1터미널 코로나19 검사센터 검사 자동화 시스템 구축 | 코로나 검사 인터페이스 개발 |
 | 2022.02 ~ 2022.03 |`ACK` | 울산중앙병원 신관 전산시스템 구축| 신관 오픈 진단검사 장비 인터페이스 개발 |
@@ -82,6 +82,12 @@
 
 <br/>
 
+## 🎤 Presentation & Experience
+- [“Hello Atlassian, 기다려온 미래” 컨퍼런스 발표](https://dmove.tistory.com/entry/atlassian-event-240327)  
+- [화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
+- [2015 국회의장배 스피치·토론대회 참가](https://www.icouncil.kr/news/articleView.html?idxno=28760)  
+
+<br/>
 
 ## 🎓 Education & Training
 | 기간 | 과정명 | 성과 |
@@ -91,28 +97,24 @@
 | 2022.09 ~ 2023.03 | 제로베이스 백엔드 개발자 교육 | [Lazier 5기 백엔드 스쿨 최우수 프로젝트](https://zero-base.oopy.io/be_project_2408) |
 | 2019.09 ~ 2020.01 | 경기산업기술교육센터 IoT 교육 | 경기도지사 상, 중간평가 최우수상 [I‑HOME 프로젝트](https://sniper4366.wixsite.com/smartunity) |
 
-
-<br/>
-
-## 🎤 Presentation & Experience
-- [“Hello Atlassian, 기다려온 미래” 컨퍼런스 발표](https://dmove.tistory.com/entry/atlassian-event-240327)  
-- [화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
-- [2015 국회의장배 스피치·토론대회 참가](https://www.icouncil.kr/news/articleView.html?idxno=28760)  
-
 <br/>
 
 ## 🏅 Certificate
-- 2025. 06 - 정보처리기사 필기 합격
-- 2024. 10 - 리눅스마스터 2급, 한국정보통신진흥협회(KAIT)
-- 2023. 06 - ITIL v4 foundation, PeopleCert
-- 2022. 12 - SQLD,  한국데이터산업진흥원
+| 기간 | 성과 |
+|------|--------|
+| 2025.06 | 정보처리기사 필기 합격, 한국산업인력공단 |
+| 2024.10 | 리눅스마스터 2급, 한국정보통신진흥협회(KAIT) |
+| 2023.06 | ITIL v4 foundation, PeopleCert |
+| 2022.12 | SQLD, 한국데이터산업진흥원 |
 
 <br/>
 
 ## 🏆 Awards
-- 2017. 12 - 교내 도서관 문화행사 하반기 최다 다독상 수상
-- 2017. 06 - 교내 도서관 문화행사 상반기 최다 다독상 수상
-- 2015. 07 - 국회의장배 ‘인성’ 스피치 대회 전국 예선 진출
+| 기간 | 내용 |
+|------|--------|
+| 2017.12 | 교내 도서관 문화행사 하반기 최다 다독상 수상 |
+| 2017.06 | 교내 도서관 문화행사 상반기 최다 다독상 수상 |
+| 2015.07 | 국회의장배 ‘인성’ 스피치 대회 전국 예선 진출 |
 
 <br/>
 
