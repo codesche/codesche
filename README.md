@@ -67,8 +67,8 @@
 
 ## 🛠 Skills
 
-| **Category**             | **Skills**                                                                 |
-|--------------------------|----------------------------------------------------------------------------|
+|**Category**             | **Skills**                                                                 |
+|:--------------------------:|----------------------------------------------------------------------------|
 | **Backend**              | Java, Spring Boot, Spring Data JPA, QueryDSL, Spring Batch, Gradle, Maven |
 | **Frontend**             | HTML, CSS, JavaScript, React |
 | **Database**             | MySQL, Oracle, PostgreSQL, Redis, MongoDB, ElasticSearch                                                      |
