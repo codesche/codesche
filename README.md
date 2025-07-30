@@ -133,7 +133,7 @@
 
 <br/>
 
-## 🚴🏻‍♂️ Solved.ac
+## 🚴🏻‍♂️ solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709/)
 <img src="http://mazandi.herokuapp.com/api?handle=hms7709&theme=warm"/>
 
