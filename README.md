@@ -39,7 +39,7 @@
 - [SpringBoot 활용한 나만의 블로그 만들기](https://github.com/codesche/springboot-miniblog)
 - [SpringBoot MSA 세팅 가이드](https://codesche.oopy.io/19dde3f7-e3a8-8016-be48-e0fc3babbab7)
 - [SpringBoot Dirty Checking](https://codesche.oopy.io/1a3de3f7-e3a8-804c-ad7e-cce9029a9cd3)
-- [Side Project](https://github.com/codesche/BoardProject)
+- [SpringBoot + Thymelaf 활용한 게시판 구현](https://github.com/codesche/BoardProject)
 - [프로그래밍 교육](https://github.com/codesche/2025-likelion-exercise)
 - [기본적인 게시판 구현](https://github.com/codesche/rest-api-project)
 
