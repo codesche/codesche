@@ -99,7 +99,7 @@
 |------|--------|------|
 | 2025.06 ~ 2025.08 | 멋쟁이사자처럼 백엔드 단기 심화 과정 | 진행 중 |
 | 2024.06 ~ 2024.11 | KOSTA Java Cloud 백엔드 과정 | [DoDream 최우수 프로젝트, 우수 훈련생](https://kostaswedu.co.kr/32/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=127604592&t=board) |
-| 2022.09 ~ 2023.03 | 제로베이스 백엔드 개발자 교육 | [Lazier 5기 백엔드 스쿨 최우수 프로젝트](https://zero-base.oopy.io/c3ccfef7-65ef-4cd7-9157-404e33a3e098) |
+| 2022.09 ~ 2023.03 | 제로베이스 백엔드 개발자 교육 | [Lazier 5기 백엔드 스쿨 최우수 프로젝트](https://github.com/Lazy-Board/.github) |
 | 2019.09 ~ 2020.01 | 경기산업기술교육센터 IoT 교육 | 경기도지사 상, 중간평가 최우수상 [I‑HOME 프로젝트](https://sniper4366.wixsite.com/smartunity) |
 
 <br/>
