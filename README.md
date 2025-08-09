@@ -45,6 +45,112 @@
 
 </details>
 
+<details>
+<summary><strong>🔽 기술 스택</strong></summary>
+
+---
+
+### ☕ Java
+- 객체지향적인 설계를 바탕으로 유지보수성과 확장성이 뛰어난 코드를 작성하고자 노력합니다.
+- 다형성, SOLID, 캡슐화 등 객체지향 프로그래밍에 대한 개념을 적용한 코드를 작성할 수 있습니다.
+- Java의 컬렉션 프레임워크인 List, Map과 Stream API를 활용하여 가독성과 성능을 고려한 코드 최적화를 수행한 경험이 있습니다.
+- jsoup을 활용하여 웹 페이지의 정보를 크롤링한 경험이 있습니다.
+
+### 🚀 Spring Boot
+- Spring Boot의 자동 설정과 내장 WAS인 Tomcat을 활용하여 어플리케이션을 구축할 수 있습니다.
+- RESTful API 개발 시, Spring Web MVC와 DTO를 활용하여 유지보수성과 확장성을 고려한 구조를 설계한 경험이 있습니다.
+- Profile 기능을 이용하여 `application.yml`에서 개발, 테스트, 운영 환경을 분리하여 프로젝트를 진행한 경험이 있습니다.
+- 다양한 예외에 대해 적절한 HTTP 응답을 반환할 수 있는 코드를 작성하여 일관된 예외 처리 코드를 작성한 경험이 있습니다.
+- SSE를 활용하여 이벤트 발생 시 사용자에게 실시간 알림 기능을 구현한 경험이 있습니다.
+- Pageable 인터페이스를 활용하여 데이터의 정렬 기준, 페이지 크기 설정이 가능한 페이지네이션을 구현한 경험이 있습니다.
+
+### 📦 Spring Data JPA
+- JPA의 영속성 컨텍스트를 이해하고, 효율적인 데이터베이스 연산을 위한 연관관계 매핑과 Fetch 전략을 수립할 수 있습니다.
+- 성능 개선을 위해 Fetch Join을 활용하여 N+1 문제를 해결한 경험이 있습니다.
+- Dirty Checking을 활용하여 UPDATE 쿼리를 자동으로 실행하도록 구성하여 코드 가독성과 유지보수성, 성능 최적화를 달성한 경험이 있습니다.
+
+### 🖥 Spring MVC
+- Controller, Service, Repository 계층을 명확히 구분하여 유지보수성을 높이고, RESTful API 설계를 준수합니다.
+- 요청과 응답 데이터를 DTO로 구조화하여 코드의 일관성을 유지할 수 있는 코드를 작성할 수 있습니다.
+
+### 🔐 Spring Security
+- JWT 및 OAuth2를 활용한 인증/인가 시스템을 구현하여 보안성이 보장된 소셜 로그인 기능을 구현할 수 있습니다.
+- 세션 관리 및 CSRF, CORS 정책을 고려한 안전한 웹 애플리케이션을 개발합니다.
+
+### ⚙️ Spring Batch
+- 대량의 데이터를 처리할 수 있도록 Spring Batch를 활용하여 성능 최적화를 진행한 경험이 있습니다.
+- Spring Scheduler를 활용하여 안정적인 배치 실행이 가능한 코드를 작성할 수 있습니다.
+
+### 🗄 Database (MySQL, Oracle, MSSQL)
+- 성능 개선을 위한 서브 쿼리를 작성한 경험이 있습니다.
+- DB와 어플리케이션을 연동하여 인프라 구축을 진행한 경험이 있습니다.
+- JOIN과 GROUP BY를 활용하여 데이터 조회 성능 향상을 이끌어낸 경험이 있습니다.
+- 데이터 무결성·정합성 에러 해결 및 DB 성능 개선 작업을 진행한 경험이 있습니다.
+
+### ⚡ Redis
+- In-memory 기반인 Redis를 활용하여 조회 성능을 높이기 위해 캐싱을 활용한 경험이 있습니다.
+- Spring Boot에서 Redis와 연동할 수 있는 설정을 할 수 있으며, AWS ElasticCache를 활용하여 Cloud 환경에서도 Redis를 사용한 경험이 있습니다.
+
+### 🐧 Linux
+- Ubuntu, CentOS, Rocky Linux 8 사용 경험이 있습니다.
+- `htop`, `free` 등의 명령어를 활용하여 실시간 모니터링 및 메모리 사용량 등의 정보 조회 가능.
+- Jira Data Center Clustering을 Linux에서 DB 구성, NFS, Load Balancer 설정까지 경험.
+
+### ☁️ AWS
+**EC2**
+- EC2 Ubuntu 서버를 구축하여 SSH key를 통해 관리 및 운영한 경험이 있습니다.
+
+**RDS**
+- MySQL RDS를 운영하며, 성능 최적화를 위해 Parameter Group을 조정한 경험이 있습니다.
+- 자동 백업 및 스냅샷을 활용하여 안정적인 데이터 관리 수행.
+- RDS와 Spring Boot 연동 경험.
+
+**ElasticCache**
+- Redis 클러스터 생성 및 EC2 환경에서의 연결 설정 경험.
+
+**Route53**
+- 가비아에서 도메인을 생성 후 네임서버를 적용하여 웹 사이트 구축을 진행한 경험이 있습니다.
+
+### 🐳 Docker
+- Docker Compose를 활용하여 다중 컨테이너 애플리케이션 관리 경험.
+- Dockerfile 작성 및 빌드 경험.
+
+### 🔧 Git & GitHub Actions
+**Git**
+- Git Flow 전략을 활용한 협업 경험.
+- GitHub Wiki, GitHub Project를 활용하여 효율적인 이슈 및 PR 관리.
+- Issue 템플릿 표준화 및 작업 단위 관리.
+
+**GitHub Actions**
+- CI/CD 파이프라인 구축하여 코드 변경 시 자동 테스트 및 배포.
+- AWS 및 Docker와 연동한 자동화 배포 환경 구성.
+- Slack Webhook 연동으로 배포 성공/실패 알람 설정.
+
+### 🛠 Jenkins
+- Jenkins를 활용한 CI/CD 환경 구축 및 Gradle 빌드 자동화.
+- Webhook 기반 GitHub 연동.
+- 파이프라인 스크립트 작성 및 Slack Webhook 알림 설정.
+
+### 🧪 JUnit5 & Mockito
+- Mock 객체로 의존성 제거 및 BDD 스타일 테스트 작성.
+- 단위 테스트, 통합 테스트로 코드 안정성 확보.
+
+### 📋 협업 툴 (Jira, Confluence, Slack, Notion, Mattermost)
+**Jira & Confluence**
+- 애자일 프로세스 기반 스프린트 관리 및 칸반 보드 활용.
+- Confluence로 업무 일지 및 회의록 작성.
+
+**Slack**
+- 프로젝트 커뮤니케이션 및 CI/CD 알림 기능 구현 경험.
+
+**Notion & Mattermost**
+- Notion으로 프로젝트 문서 체계 관리 및 지식 공유.
+- Mattermost로 실시간 팀 협업 경험.
+
+---
+
+</details>
+
 <br/>
 
 ## Career
@@ -71,12 +177,11 @@
 |:--------------------------:|----------------------------------------------------------------------------|
 | **Backend**              | Java, Spring Boot, Spring Data JPA, QueryDSL, Spring Batch, Gradle, Maven |
 | **Frontend**             | HTML, CSS, JavaScript, React |
-| **Database**             | MySQL, Oracle, PostgreSQL, Redis, MongoDB, ElasticSearch                                                      |
+| **Database**             | MySQL, Oracle, PostgreSQL, Redis, MongoDB                                                    |
 | **Server / DevOps**      | AWS EC2, AWS RDS, AWS ElasticCache, Docker, Grafana, Prometheus, GitHub Actions, Jenkins          |
 | **Tools / Test Code**    | IntelliJ IDEA, VS Code, JUnit5, Mockito                          |
 | **Operating System**     | Ubuntu 22.04 LTS, Rocky Linux 8, CentOS 7                                           |
 | **Collaboration Tools**  | Git, Jira, Slack, Notion, Mattermost                                      |
-
 
 <br/>
 
