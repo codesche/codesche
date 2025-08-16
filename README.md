@@ -28,7 +28,7 @@
 <details>
 <summary><strong> 🔽 꾸준한 공부 </strong></summary>
 
-# 📚 꾸준한 공부 정리
+## 📚 학습 내용
 
 <table>
   <thead>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td>AWS에서 ELK + Prometheus + Grafana 구축</td>
-      <td><a href="https://codesche.oopy.io/238de3f7-e3a8-803c-b23a-fdefe1262771">Oopy</a></td>
+      <td><a href="https://codesche.oopy.io/238de3f7-e3a8-803c-b23a-fdefe1262771">Blog</a></td>
     </tr>
     <tr>
       <td rowspan="2">소프트웨어 공학</td>
@@ -81,11 +81,11 @@
     </tr>
     <tr>
       <td>SpringBoot MSA 세팅 가이드</td>
-      <td><a href="https://codesche.oopy.io/19dde3f7-e3a8-8016-be48-e0fc3babbab7">Oopy</a></td>
+      <td><a href="https://codesche.oopy.io/19dde3f7-e3a8-8016-be48-e0fc3babbab7">Blog</a></td>
     </tr>
     <tr>
       <td>SpringBoot Dirty Checking</td>
-      <td><a href="https://codesche.oopy.io/1a3de3f7-e3a8-804c-ad7e-cce9029a9cd3">Oopy</a></td>
+      <td><a href="https://codesche.oopy.io/1a3de3f7-e3a8-804c-ad7e-cce9029a9cd3">Blog</a></td>
     </tr>
     <tr>
       <td>SpringBoot + Thymeleaf 활용한 게시판 구현</td>
