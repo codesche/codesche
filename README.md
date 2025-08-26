@@ -243,8 +243,8 @@
 
 |**Category**             | **Skills**                                                                 |
 |:--------------------------:|----------------------------------------------------------------------------|
-| **Backend**              | Java, Spring Boot, Spring Data JPA, QueryDSL, Spring Batch, Gradle, Maven |
-| **Frontend**             | HTML, CSS, JavaScript, React |
+| **Backend**              | Java, Spring Boot, Spring Data JPA, QueryDSL, Spring Batch, WebSocket, SSE, Gradle, Maven |
+| **Frontend**             | HTML, CSS, JavaScript |
 | **Database**             | MySQL, Oracle, PostgreSQL, Redis, Valkey, MongoDB, ElasticSearch                                                    |
 | **Server / DevOps**      | AWS EC2, AWS RDS, AWS ElasticCache, Docker, Grafana, Prometheus, GitHub Actions, Jenkins          |
 | **Tools / Test Code**    | IntelliJ IDEA, Visual Studio Code, JUnit5, Mockito                          |
