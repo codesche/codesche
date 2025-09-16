@@ -239,9 +239,17 @@
 <br/>
 
 ## Career
+
+<details>
+<summary><strong> 🔽 참고링크 </strong></summary> 
+    링크: https://quiettcoding.notion.site/_-263de3f7e3a880dfa44ef7106858e286
+</details>
+
+
 - [2023.05 ~ 2024.05] [`Dmove`](https://www.dmove.co.kr/main) - Atlassian Solution Engineer
 - [2020.03 ~ 2022.08] [`ACK`](https://www.ack.co.kr/) - LIS Interface Developer
-- 참고링크: https://quiettcoding.notion.site/_-263de3f7e3a880dfa44ef7106858e286
+
+
 
 <br/>
 
