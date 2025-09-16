@@ -102,6 +102,15 @@
       <td>기본적인 게시판 구현</td>
       <td><a href="https://github.com/codesche/rest-api-project">GitHub</a></td>
     </tr>
+    <tr>
+      <td rowspan="2">DevBuilder</td>
+      <td>일일 Todo</td>
+      <td><a href="https://github.com/codesche/todorider">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>DevSoul</td>
+      <td><a href="https://github.com/codesche/devcenter">GitHub</a></td>
+    </tr>
   </tbody>
 </table>
 
