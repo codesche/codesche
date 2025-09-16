@@ -272,14 +272,16 @@
 <br/>
 
 ## 🛠 Projects
-- **TRPG 게임 DungeonTalk** (2025.07 ~ 2025.08) [링크](https://github.com/DungeonTalk/dungeontalk-backend/wiki)
-- **감정 기반 도서 추천 서비스** (2025.07 ~ 2025.07) [링크](https://github.com/moodbook-space)
-- **개발자의 자기계발을 위한 문제 공유 서비스** (2024.10 ~ 2024.11) [링크](https://github.com/DoDreamTeam/Backend/wiki)
-- **맞춤형 정보 조회 서비스** (2023.01 ~ 2023.03) [링크](https://github.com/Lazy-Board)
+- **DungeonTalk - TRPG 게임** (2025.07 ~ 2025.08) [링크](https://github.com/DungeonTalk/dungeontalk-backend/wiki)
+- **Moodbook - 감정 기반 도서 추천 서비스** (2025.07 ~ 2025.07) [링크](https://github.com/moodbook-space/moodbook-backend/wiki)
+- **DoDream - 개발자의 자기계발을 위한 문제 공유 서비스** (2024.10 ~ 2024.11) [링크](https://github.com/DoDreamTeam/Backend/wiki)
+- **Lazier - 맞춤형 정보 조회 서비스** (2023.01 ~ 2023.03) [링크](https://github.com/Lazy-Board)
 
 <br/>
 
 ## 🎤 Presentation & Experience
+- [Moodbook 프로젝트 진행 발표](https://example.com)
+- [DoDream 프로젝트 진행 발표](https://www.youtube.com/watch?v=nScRgV9TfKM&t=216s)
 - [“Hello Atlassian, 기다려온 미래” 컨퍼런스 발표](https://dmove.tistory.com/entry/atlassian-event-240327)  
 - [화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
 - [2015 국회의장배 스피치·토론대회 참가](https://www.icouncil.kr/news/articleView.html?idxno=28760)  
