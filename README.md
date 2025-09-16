@@ -25,7 +25,9 @@
 <details>
 <summary><strong> 🔽 발표 </strong></summary> 
 내가 알고 있는 지식과 정보를 쉽게 전달하기 위해 노력합니다.
-  
+
+- [Moodbook 프로젝트 데모데이 발표](https://example.com)
+- [DoDream 프로젝트 데모데이 발표](https://www.youtube.com/watch?v=nScRgV9TfKM&t=216s)
 - [“Hello Atlassian, 기다려온 미래” 컨퍼런스 발표](https://dmove.tistory.com/entry/atlassian-event-240327)  
 - [화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
 
