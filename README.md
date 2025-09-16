@@ -285,7 +285,7 @@
 - [Moodbook 프로젝트 진행 발표](https://example.com)
 - [DoDream 프로젝트 진행 발표](https://www.youtube.com/watch?v=nScRgV9TfKM&t=216s)
 - [“Hello Atlassian, 기다려온 미래” 컨퍼런스 발표](https://dmove.tistory.com/entry/atlassian-event-240327)  
-- [화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
+- [Confluence Cloud 화이트보드 활용 가이드 (입문자 대상)](https://dmove.tistory.com/entry/atlassian-meetup-review-240118)  
 - [2015 국회의장배 스피치·토론대회 참가](https://www.icouncil.kr/news/articleView.html?idxno=28760)  
 
 <br/>
