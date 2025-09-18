@@ -78,7 +78,7 @@
       <td><a href="https://github.com/codesche/exercise-code?tab=readme-ov-file">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan="5">Spring / SpringBoot</td>
+      <td rowspan="6">Spring / SpringBoot</td>
       <td>Spring Study</td>
       <td><a href="https://github.com/codesche/Spring-Summary">GitHub</a></td>
     </tr>
@@ -93,6 +93,10 @@
     <tr>
       <td>SpringBoot Dirty Checking</td>
       <td><a href="https://codesche.oopy.io/1a3de3f7-e3a8-804c-ad7e-cce9029a9cd3">Blog</a></td>
+    </tr>
+    <tr>
+      <td>개발 방향 설정</td>
+      <td><a href="https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552">Blog</a></td>
     </tr>
     <tr>
       <td>SpringBoot + Thymeleaf 활용한 게시판 구현</td>
