@@ -60,13 +60,17 @@
       <td><a href="https://github.com/codesche/kotlin-study">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan="2">인프라 / DevOps</td>
+      <td rowspan="3">인프라 / DevOps</td>
       <td>AWS에서 Jenkins 구축</td>
-      <td><a href="https://chisel-girdle-b92.notion.site/EC2-Jenkins-237d2cee333480fda8daf143b5eb1cd6">Notion</a></td>
+      <td><a href="https://codesche.oopy.io/261de3f7-e3a8-80fe-b719-dc2ba5474c9b">Blog</a></td>
     </tr>
     <tr>
       <td>AWS에서 ELK + Prometheus + Grafana 구축</td>
       <td><a href="https://codesche.oopy.io/238de3f7-e3a8-803c-b23a-fdefe1262771">Blog</a></td>
+    </tr>
+    <tr>
+      <td>API GateWay & MSA - 프로토스의 게이트웨이와 비교</td>
+      <td><a href="https://codesche.oopy.io/277de3f7-e3a8-808a-9308-cc9b7b37587a">Blog</a></td>
     </tr>
     <tr>
       <td rowspan="2">소프트웨어 공학</td>
@@ -244,8 +248,7 @@
 <summary><strong>🔽 작성 글</strong></summary>
 
 - [AI 활용에 대한 나의 생각과 느낀 점](https://codesche.oopy.io/276de3f7-e3a8-80a1-923c-fb18e6c04d38)
-- [API GateWay & MSA - 프로토스의 게이트웨이와 비교](https://codesche.oopy.io/277de3f7-e3a8-808a-9308-cc9b7b37587a)
-- [프로젝트 회고 (25. 06 ~ 25. 08](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)
+- [프로젝트 회고 (25. 06 ~ 25. 08)](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)
 
 </details>
 
