@@ -268,9 +268,9 @@
 | 기간 | 회사 | 프로젝트 및 진행업무 | 주요 내용 |
 |:-------------:|:----------------:|-----------|-------------|
 | 2023.11 ~ 2024.03 |`Dmove`| yanolja 클라우드 마이그레이션 | Jira, Confluence의 Data Center 버전의 데이터를 클라우드로 이관 (95% 이상 이관 성공) |
-| 2022.04 ~ 2022.06 |`ACK` | 이기은진단검사의학과 Covid 검사 시스템 구축 | Covid 검사 인터페이스 개발 (인터페이스와 전산시스템, DB와 연동하여 자동 검사 방식으로 변경) |
-| 2022.05 ~ 2022.05 |`ACK` | 인천국제공항 제1터미널 Covid 검사센터 검사 시스템 구축 | Covid 검사 인터페이스 개발 (검사 파일 양식을 파싱하여 전산에 결과 등록할 수 있는 작업 진행) |
-| 2022.02 ~ 2022.03 |`ACK` | 국군양주병원 Covid 검사 시스템 구축 | Covid 검사 인터페이스 개발 (취합검사 방식 도입) | 
+| 2022.04 ~ 2022.06 |`ACK` | 이기은진단검사의학과 Covid 검사 시스템 구축 | ACK 인터페이스 최초 도입 + 수동 검사에서 자동 검사 방식으로 변경 + 취합 검사 방식 적용|
+| 2022.05 ~ 2022.05 |`ACK` | 인천국제공항 제1터미널 Covid 검사센터 검사 시스템 구축 | 시약별로 출력되는 검사 파일 양식을 파싱하여 전산에 자동 등록할 수 있도록 구현 |
+| 2022.02 ~ 2022.03 |`ACK` | 국군양주병원 Covid 검사 시스템 구축 | 국군병원 최초로 코로나 인터페이스 도입 + 취합 검사 방식 적용  | 
 | 2022.02 ~ 2022.03 |`ACK` | 울산중앙병원 신관 전산시스템 구축| 혈액, 미생물, 뇨화학 파트 진단검사 장비 인터페이스 개발 |
 | 2021.06 ~ 2021.06 |`ACK` | 항공우주의료원 혈액 파트 진단검사장비 인터페이스 개발 | 신규 혈액검사 장비 도입으로 인한 인터페이스 개발 및 QC 검사 자동화 |
 | 2020.12 ~ 2021.04 |`ACK` | 의정부을지병원 차세대 전산 시스템 구축 |SmartQC 연동 및 설치 + 진단검사장비 인터페이스 개발 |
@@ -282,7 +282,7 @@
 
 |**Category**             | **Skills**                                                                 |
 |:--------------------------:|----------------------------------------------------------------------------|
-| **Backend**              | Java, Spring Boot, Spring Data JPA, QueryDSL, Spring Batch, WebSocket, SSE, Gradle, Maven |
+| **Backend**              | Java, Spring Boot, Spring Data JPA, QueryDSL, Spring Batch, WebSocket, SSE |
 | **Frontend**             | HTML, CSS, JavaScript |
 | **Database**             | MySQL, Oracle, PostgreSQL, Redis, Valkey, MongoDB, ElasticSearch                                                    |
 | **Server / DevOps**      | AWS EC2, AWS RDS, AWS ElasticCache, Docker, Grafana, Prometheus, GitHub Actions, Jenkins          |
