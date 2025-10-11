@@ -350,12 +350,6 @@
 
 <br/>
 
-## 🚴🏻‍♂️ solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hms7709)](https://solved.ac/hms7709/)
-<img src="http://mazandi.herokuapp.com/api?handle=hms7709&theme=warm"/>
-
-<br/>
-
 ## 🧑🏻‍💻 Tech Blog & Contact
 <p>
   <a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/codesche@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>&nbsp&nbsp
