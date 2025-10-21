@@ -130,6 +130,13 @@
 </details>
 
 <details>
+  <summary><strong>🔽 온라인 활동</strong></summary>
+  
+  - [IN THIS WORK - 개발자, 누구나 할 수는 있지만 누구나 오래할 순 없다](https://inthiswork.com/archives/267910)
+
+</details>
+
+<details>
 <summary><strong>🔽 기술 스택</strong></summary>
 
 ---
@@ -249,6 +256,7 @@
 
 - [AI 활용에 대한 나의 생각과 느낀 점](https://codesche.oopy.io/276de3f7-e3a8-80a1-923c-fb18e6c04d38)
 - [프로젝트 회고 (25. 06 ~ 25. 08)](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)
+- [객체지향과 스프링](https://codesche.oopy.io/26ede3f7-e3a8-80bd-b14c-ce55ba764da1)
 
 </details>
 
