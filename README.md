@@ -133,6 +133,7 @@
   <summary><strong>🔽 온라인 활동</strong></summary>
   
   - [IN THIS WORK - 개발자, 누구나 할 수는 있지만 누구나 오래할 순 없다](https://inthiswork.com/archives/267910)
+  - [개발자, 열정을 더하고 실력을 쌓아 나가는 일상의 연속](https://brunch.co.kr/@codesche/107)
 
 </details>
 
