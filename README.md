@@ -269,6 +269,7 @@
 
 - [2023.05 ~ 2024.05] [`Dmove`](https://www.dmove.co.kr/main) - Atlassian Solution Engineer
 - [2020.03 ~ 2022.08] [`ACK`](https://www.ack.co.kr/) - LIS Interface Developer
+- [2025.12 ~ ][`휴니버스글로벌`](https://huniverse.co.kr/) - PHIS 사업부 운영팀 개발자
 
 
 
