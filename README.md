@@ -15,7 +15,7 @@
 <details>
 <summary><strong> 🔽 프로필 </strong></summary>
 
-- **Name**: Minsung Ha (하민성)  
+- **Name**: 하민성 (HA MINSUNG) 
 - **Nickname**: codesche  
 - **Email**: codesche@gmail.com
 
