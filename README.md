@@ -356,11 +356,6 @@
 
 <br/>
 
-## ⚡️ GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesche)](https://github.com/codesche/github-readme-stats)
-
-<br/>
-
 ## 🧑🏻‍💻 Tech Blog & Contact
 <p>
   <a href="mailto:codesche@gmail.com"><img src="https://img.shields.io/badge/codesche@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=codesche@gmail.com"/></a>&nbsp&nbsp
