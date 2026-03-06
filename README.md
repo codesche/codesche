@@ -323,6 +323,7 @@
 ## 🎓 Education & Training
 | 기간 | 과정명 | 성과 |
 |------|--------|------|
+| 2026.03 ~ 2028.02 | 방송통신대학교 컴퓨터과학과 | 재학중 |
 | 2025.06 ~ 2025.08 | 멋쟁이사자처럼 백엔드 단기 심화 과정 | 개근상 수상 |
 | 2025.06 ~ 2025.08 | 멋쟁이사자처럼 백엔드 단기 심화 과정 | [DungeonTalk 최우수 프로젝트 선정](https://github.com/DungeonTalk/dungeontalk-backend) |
 | 2024.06 ~ 2024.11 | KOSTA Java Cloud 백엔드 과정 | [DoDream 최우수 프로젝트 선정, 우수 훈련생 상](https://kostaswedu.co.kr/32/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=127604592&t=board) |
