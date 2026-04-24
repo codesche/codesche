@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-### "Coding is Fact"
+### "1 Life 2 Live"
 
 <p>
   안녕하세요, codesche입니다.<br/>
