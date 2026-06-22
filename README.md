@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-### "1 Life 2 Live"
+### "Still compiling. Always shipping."
 
 <p>
   안녕하세요, codesche입니다.<br/>
@@ -35,7 +35,7 @@
 <details>
 <summary><strong> 🔽 꾸준한 공부 </strong></summary>
 
-## 📚 학습 내용
+## 📚 학습 내용 요약
 
 <table>
   <thead>
@@ -253,19 +253,34 @@
 
 </details>
 
+<br/>
 
-<details>
-<summary><strong>🔽 작성 글</strong></summary>
+<!-- 2026. 06. 22 수정 -->
+## ✎ Writes
 
-- [AI 활용에 대한 나의 생각과 느낀 점](https://codesche.oopy.io/276de3f7-e3a8-80a1-923c-fb18e6c04d38)
-- [프로젝트 회고 (25. 06 ~ 25. 08)](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)
-- [객체지향과 스프링](https://codesche.oopy.io/26ede3f7-e3a8-80bd-b14c-ce55ba764da1)
+### Experience
 
-</details>
+| Publish At | Title | KeyWords |
+|:-------------:|:----------------|:-----------|
+|2025.09|[AI 활용에 대한 나의 생각과 느낀 점](https://codesche.oopy.io/276de3f7-e3a8-80a1-923c-fb18e6c04d38)|`AI`, `문서화`, `코드 리뷰`|
+|2025.09|[프로젝트 회고 (25. 06 ~ 25. 08)](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)|`컨벤션`, `규칙`|
+|2025.09|[EC2 환경에서 Jenkins CI/CD 구축](https://codesche.oopy.io/261de3f7-e3a8-80fe-b719-dc2ba5474c9b)|`Jenkins`, `CI/CD`|
 
 <br/>
 
-## Career
+### Study
+
+| Publish At | Title | KeyWords |
+|:-------------:|:----------------|:-----------|
+|2026.04|[배치 처리 완전 정복](https://codesche.oopy.io/350de3f7-e3a8-81a6-80e3-e337e54578eb)|`Spring Batch`, `성능 최적화`|
+|2026.04|[Java 고급 문법과 실무 성능 설계 패턴](https://codesche.oopy.io/346de3f7-e3a8-81a4-ab81-ded3f00100f3)|`스트림`, `자료구조`|
+|2025.09|[객체지향과 스프링](https://codesche.oopy.io/26ede3f7-e3a8-80bd-b14c-ce55ba764da1)|`객체지향`, `스프링`, `스프링 부트`|
+
+<!-- End -->
+
+<br/>
+
+## 🗂️ Career
 
 - [2025.12 ~ 2026.05][`휴니버스글로벌`](https://huniverse.co.kr/) - PHIS 사업부 운영팀 개발자 (EMR 파트 담당)
 - [2023.05 ~ 2024.05] [`Dmove`](https://www.dmove.co.kr/main) - Atlassian Solution Engineer
