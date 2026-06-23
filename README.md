@@ -262,9 +262,16 @@
 
 | Publish At | Title | KeyWords |
 |:-------------:|:----------------|:-----------|
+|2025.10|[실시간 통신, DungeonTalk](https://codesche.oopy.io/293de3f7-e3a8-809f-89b3-c3441534133a)|`Long Polling`, `SSE`, `WebSocket`|
+|2025.10|[실시간 채팅 세션 관리 시스템 구현](https://codesche.oopy.io/28dde3f7-e3a8-803f-9d47-f6b3e2ff7c34)|`세션`, `Kafka`|
+|2025.10|[프로젝트 통해 공부한 클린 코드와 클린 아키텍처](https://codesche.oopy.io/296de3f7-e3a8-80bf-92f2-c9ae221343f9)|`클린 코드`, `클린 아키텍처`|
+|2025.10|[WebSocket 채팅 - Redis Pub/Sub에서 Kafka로](https://codesche.oopy.io/289de3f7-e3a8-80c2-8fd7-e14d938939fc)|`Redis`, `Kafka`|
 |2025.09|[AI 활용에 대한 나의 생각과 느낀 점](https://codesche.oopy.io/276de3f7-e3a8-80a1-923c-fb18e6c04d38)|`AI`, `문서화`, `코드 리뷰`|
 |2025.09|[프로젝트 회고 (25. 06 ~ 25. 08)](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)|`컨벤션`, `규칙`|
 |2025.09|[EC2 환경에서 Jenkins CI/CD 구축](https://codesche.oopy.io/261de3f7-e3a8-80fe-b719-dc2ba5474c9b)|`Jenkins`, `CI/CD`|
+|2025.02|[Dirty Checking 활용](https://codesche.oopy.io/1a3de3f7-e3a8-804c-ad7e-cce9029a9cd3)|`Dirty Checking`|
+|2025.02|[Springboot MSA 세팅 가이드](https://codesche.oopy.io/19dde3f7-e3a8-8016-be48-e0fc3babbab7)|`MSA`, `Springboot`|
+|2025.01|[스프링 부트 3.2 매개변수 이름 인식 문제](https://codesche.oopy.io/183de3f7-e3a8-811a-910e-f49c5e94fc53)|`Springboot 3.2`, `매개변수 인식`|
 
 <br/>
 
@@ -272,9 +279,26 @@
 
 | Publish At | Title | KeyWords |
 |:-------------:|:----------------|:-----------|
+|2026.06|[Java 기본 문법](https://codesche.oopy.io/373de3f7-e3a8-81cd-a904-e869e028fff6)|`기본 문법`, `데이터 유형`, `자료구조`|
+|2026.04|[Oracle DB 성능 죽이는 쿼리 패턴과 튜닝 전략](https://codesche.oopy.io/346de3f7-e3a8-813b-bfb3-f7dd5dbe849b)|`Oracle`, `Database`|
+|2026.04|[조건 필터링은 WAS에서 할까, DB에서 할까](https://codesche.oopy.io/342de3f7-e3a8-8171-ac10-c1213fa684cf)|`WAS`, `DB`|
 |2026.04|[배치 처리 완전 정복](https://codesche.oopy.io/350de3f7-e3a8-81a6-80e3-e337e54578eb)|`Spring Batch`, `성능 최적화`|
 |2026.04|[Java 고급 문법과 실무 성능 설계 패턴](https://codesche.oopy.io/346de3f7-e3a8-81a4-ab81-ded3f00100f3)|`스트림`, `자료구조`|
+|2026.04|[데이터베이스의 보안 및 성능 이슈 해결법](https://codesche.oopy.io/341de3f7-e3a8-810d-92a1-e800d515749a)|`Database`, `보안`|
 |2025.09|[객체지향과 스프링](https://codesche.oopy.io/26ede3f7-e3a8-80bd-b14c-ce55ba764da1)|`객체지향`, `스프링`, `스프링 부트`|
+|2025.11|[DTO 설계는 어떻게 해야 하나](https://codesche.oopy.io/2b6de3f7-e3a8-8050-95a0-ce9306b3704e)|`DTO`, `Builder`|
+|2025.10|[MySQL DeadLock 해결하는 방법](https://codesche.oopy.io/295de3f7-e3a8-8041-a68a-d85450dd93a8)|`MySQL`, `DeadLock`|
+|2025.09|[대규모 트래픽을 다루기 위한 Java Spring 백엔드 개발자의 고민](https://codesche.oopy.io/26dde3f7-e3a8-804c-9b5f-ee89978c2d93)|`Database`|
+|2025.07|[JPA 지연로딩 문제 해결](https://codesche.oopy.io/235de3f7-e3a8-80d3-ab72-d08c8b4e774b)|`JPA`, `N+1`, `지연로딩`|
+|2025.05|[Spring MVC 패턴이란](https://codesche.oopy.io/1e9de3f7-e3a8-8057-b3fd-f1da94552bcd)|`Spring MVC`, `관심사 분리`|
+|2025.05|[DI 방식별 코드](https://codesche.oopy.io/1e9de3f7-e3a8-80b8-92a4-cfe1868d8fd5)|`생성자 주입`, `필드 주입`, `세터 주입`|
+|2025.05|[인덱스란?](https://codesche.oopy.io/1fade3f7-e3a8-8074-8cd4-ef2eb8001a1b)|`Database`, `인덱스`|
+|2025.05|[DI와 IoC](https://codesche.oopy.io/1e9de3f7-e3a8-808b-b4e6-e459184caa3b)|`DI`, `IoC`|
+|2025.02|[테스트에 사용하는 프레임워크/라이브러리](https://codesche.oopy.io/18fde3f7-e3a8-8091-9e21-dd7c32044dc9)|`단위테스트`, `통합테스트`, `인수테스트`|
+|2025.02|[@Transactional(readOnly = true](https://codesche.oopy.io/1a3de3f7-e3a8-808e-a0a5-e53e8e34d55e)|`트랜잭션`, `readOnly`|
+|2025.01|[지연로딩 vs 즉시로딩](https://codesche.oopy.io/183de3f7-e3a8-8151-a0a3-ecea8604472c)|`지연로딩`, `즉시로딩`|
+|2025.01|[@Data 어노테이션 사용 가능?](https://codesche.oopy.io/183de3f7-e3a8-81f6-8290-fedf5eca794a)|`@Data`|
+
 
 <!-- End -->
 
