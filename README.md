@@ -269,6 +269,11 @@
 |2025.09|[AI 활용에 대한 나의 생각과 느낀 점](https://codesche.oopy.io/276de3f7-e3a8-80a1-923c-fb18e6c04d38)|`AI`, `문서화`, `코드 리뷰`|
 |2025.09|[프로젝트 회고 (25. 06 ~ 25. 08)](https://codesche.oopy.io/272de3f7-e3a8-80f7-af28-f9187e5e2552)|`컨벤션`, `규칙`|
 |2025.09|[EC2 환경에서 Jenkins CI/CD 구축](https://codesche.oopy.io/261de3f7-e3a8-80fe-b719-dc2ba5474c9b)|`Jenkins`, `CI/CD`|
+|2025.07|[AWS에서 ELK + Grafana + Prometheus 배포](https://codesche.oopy.io/238de3f7-e3a8-803c-b23a-fdefe1262771)|`AWS`, `CI/CD`|
+|2025.03|[MSSQL Identity Jump 1000 (자동 증가 컬럼)](https://codesche.oopy.io/1afde3f7-e3a8-80ce-9eb0-c5542be7eeea)|`MSSQL`, `Database`|
+|2025.03|[MacOS PostgreSQL 설치](https://codesche.oopy.io/1b0de3f7-e3a8-80fe-b272-fc3811f35650)|`PostgreSQL`, `MacOS`|
+|2025.03|[Mac M2 Pro MSSQL 설치](https://codesche.oopy.io/1aede3f7-e3a8-8027-b0c8-e63aa1371302)|`MSSQL 설치`, `Database`|
+|2025.02|[Mac 오라클 설치, HR 샘플 스키마 사용](https://codesche.oopy.io/1a7de3f7-e3a8-80a8-9293-eea785fc0de2)|`Oracle 설치`, `MacOS`|
 |2025.02|[Dirty Checking 활용](https://codesche.oopy.io/1a3de3f7-e3a8-804c-ad7e-cce9029a9cd3)|`Dirty Checking`|
 |2025.02|[Springboot MSA 세팅 가이드](https://codesche.oopy.io/19dde3f7-e3a8-8016-be48-e0fc3babbab7)|`MSA`, `Springboot`|
 |2025.01|[스프링 부트 3.2 매개변수 이름 인식 문제](https://codesche.oopy.io/183de3f7-e3a8-811a-910e-f49c5e94fc53)|`Springboot 3.2`, `매개변수 인식`|
@@ -280,7 +285,11 @@
 | Publish At | Title | KeyWords |
 |:-------------:|:----------------|:-----------|
 |2026.06|[Java 기본 문법](https://codesche.oopy.io/373de3f7-e3a8-81cd-a904-e869e028fff6)|`기본 문법`, `데이터 유형`, `자료구조`|
+|2026.05|[Reverse Proxy, DNS, 인프라와 네트워크 기초](https://codesche.oopy.io/359de3f7-e3a8-8132-b443-f750f2f0ef7f)|`Infra`, `네트워크`|
+|2026.05|[모놀리식 vs MSA](https://codesche.oopy.io/35dde3f7-e3a8-81c1-bffd-cd578be2f608)|`모놀리식`, `MSA`|
 |2026.04|[Oracle DB 성능 죽이는 쿼리 패턴과 튜닝 전략](https://codesche.oopy.io/346de3f7-e3a8-813b-bfb3-f7dd5dbe849b)|`Oracle`, `Database`|
+|2026.04|[Oracle DB 기초와 쿼리 튜닝](https://codesche.oopy.io/33cde3f7-e3a8-8177-81a6-d40ba8d8dea2)|`Oracle`, `Database`|
+|2026.04|[DB, 인프라, 클라우드 실무 핵심 요약](https://codesche.oopy.io/340de3f7-e3a8-81a7-8b7c-e9744694c146)|`Database`, `Infra`|
 |2026.04|[조건 필터링은 WAS에서 할까, DB에서 할까](https://codesche.oopy.io/342de3f7-e3a8-8171-ac10-c1213fa684cf)|`WAS`, `DB`|
 |2026.04|[배치 처리 완전 정복](https://codesche.oopy.io/350de3f7-e3a8-81a6-80e3-e337e54578eb)|`Spring Batch`, `성능 최적화`|
 |2026.04|[Java 고급 문법과 실무 성능 설계 패턴](https://codesche.oopy.io/346de3f7-e3a8-81a4-ab81-ded3f00100f3)|`스트림`, `자료구조`|
