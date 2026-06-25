@@ -307,14 +307,13 @@
 |2025.02|[@Transactional(readOnly = true](https://codesche.oopy.io/1a3de3f7-e3a8-808e-a0a5-e53e8e34d55e)|`트랜잭션`, `readOnly`|
 |2025.01|[지연로딩 vs 즉시로딩](https://codesche.oopy.io/183de3f7-e3a8-8151-a0a3-ecea8604472c)|`지연로딩`, `즉시로딩`|
 |2025.01|[@Data 어노테이션 사용 가능?](https://codesche.oopy.io/183de3f7-e3a8-81f6-8290-fedf5eca794a)|`@Data`|
-
-
 <!-- End -->
 
 <br/>
 
 ## 🗂️ Career
 
+<!-- 2026. 06. 22 수정 -->
 - [2026.06 ~ 2026.06][`패스트캠퍼스`](https://fastcampus.co.kr/) - 생성형 AI 기업교육 실습코치
 - [2025.12 ~ 2026.05][`휴니버스글로벌`](https://huniverse.co.kr/) - PHIS 사업부 운영팀 개발자 (EMR 파트 담당)
 - [2023.05 ~ 2024.05] [`Dmove`](https://www.dmove.co.kr/main) - Atlassian Solution Engineer
