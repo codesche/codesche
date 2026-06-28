@@ -314,7 +314,7 @@
 ## 🗂️ Career
 
 <!-- 2026. 06. 22 수정 -->
-- [2026.06 ~ 2026.06][`패스트캠퍼스`](https://fastcampus.co.kr/) - 생성형 AI 기업교육 실습코치
+- [2026.06 ~ 2026.07][`패스트캠퍼스`](https://fastcampus.co.kr/) - 생성형 AI 기업교육 실습코치 및 보조강사
 - [2025.12 ~ 2026.05][`휴니버스글로벌`](https://huniverse.co.kr/) - PHIS 사업부 운영팀 개발자 (EMR 파트 담당)
 - [2023.05 ~ 2024.05] [`Dmove`](https://www.dmove.co.kr/main) - Atlassian Solution Engineer
 - [2020.03 ~ 2022.08] [`ACK`](https://www.ack.co.kr/) - LIS Interface Developer
