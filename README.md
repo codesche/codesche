@@ -18,6 +18,7 @@
 - **Name**: 하민성(HA MIN SUNG) 
 - **Nickname**: codesche  
 - **Email**: codesche@gmail.com
+- **Blog**: https://codesche.oopy.io/
 
 </details>
 
