@@ -25,6 +25,7 @@
 <details>
 <summary><strong> 🔽 발표 </strong></summary> 
 내가 알고 있는 지식과 정보를 쉽게 전달하기 위해 노력합니다.
+  
 개발과 엔지니어링을 모두 잘하고 싶은 차세대 올라운더를 지향하고 있습니다.
 
 - [Moodbook 프로젝트 데모데이 발표](https://youtu.be/U6llVWsFeaE)
