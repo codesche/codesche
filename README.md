@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-### "Still compiling. Always shipping."
+### "It is not that we have a short time to live, but that we waste a lot of it."
 
 <p>
   안녕하세요, codesche입니다.<br/>
