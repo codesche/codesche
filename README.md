@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-### "It is not that we have a short time to live, but that we waste a lot of it."
+### "처음 시작할 때의 마음가짐으로 현재를 살아간다"
 
 <p>
   안녕하세요, codesche입니다.<br/>
