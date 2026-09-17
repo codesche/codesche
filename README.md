@@ -307,7 +307,7 @@
 |2025.05|[인덱스란?](https://codesche.oopy.io/1fade3f7-e3a8-8074-8cd4-ef2eb8001a1b)|`Database`, `인덱스`|
 |2025.05|[DI와 IoC](https://codesche.oopy.io/1e9de3f7-e3a8-808b-b4e6-e459184caa3b)|`DI`, `IoC`|
 |2025.02|[테스트에 사용하는 프레임워크/라이브러리](https://codesche.oopy.io/18fde3f7-e3a8-8091-9e21-dd7c32044dc9)|`단위테스트`, `통합테스트`, `인수테스트`|
-|2025.02|[@Transactional(readOnly = true](https://codesche.oopy.io/1a3de3f7-e3a8-808e-a0a5-e53e8e34d55e)|`트랜잭션`, `readOnly`|
+|2025.02|[@Transactional(readOnly = true)](https://codesche.oopy.io/1a3de3f7-e3a8-808e-a0a5-e53e8e34d55e)|`트랜잭션`, `readOnly`|
 |2025.01|[지연로딩 vs 즉시로딩](https://codesche.oopy.io/183de3f7-e3a8-8151-a0a3-ecea8604472c)|`지연로딩`, `즉시로딩`|
 |2025.01|[@Data 어노테이션 사용 가능?](https://codesche.oopy.io/183de3f7-e3a8-81f6-8290-fedf5eca794a)|`@Data`|
 <!-- End -->
