@@ -317,6 +317,7 @@
 ## 🗂️ Career
 
 <!-- 2026. 09. 01 수정 -->
+- [2026.10 ~ 현재][`네오소프트뱅크`](https://www.neochart.co.kr/) - EMR 개발자
 - [2026.06 ~ 현재][`패스트캠퍼스`](https://fastcampus.co.kr/) - 생성형 AI 기업교육 실습코치 및 보조강사
 - [2025.12 ~ 2026.05][`휴니버스글로벌`](https://huniverse.co.kr/) - PHIS 사업부 운영팀 개발자 (EMR 파트 담당)
 - [2023.05 ~ 2024.05] [`Dmove`](https://www.dmove.co.kr/main) - Atlassian Solution Engineer
